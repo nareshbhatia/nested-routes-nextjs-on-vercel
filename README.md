@@ -1,4 +1,7 @@
-# Nested Routes Next.js
+# Nested Routes Next.js on Vercel
+
+Please see original repo and performance documentation here:
+https://github.com/nareshbhatia/nested-routes.
 
 ## Development Build
 
